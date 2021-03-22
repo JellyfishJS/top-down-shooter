@@ -1,17 +1,6 @@
-# JellyfishJS Multiplayer Template
+# JellyfishJS Top Down Shooter
 
-This repository contains an incredibly simple multiplayer game
-to get started on a
-[JellyfishJS](https://www.npmjs.com/package/jellyfish.js)
-project.
-
-To use this template:
-- If you are logged in to github, click
-    "[Use this template](https://github.com/JellyfishJS/template-Multiplayer/generate)"
-    on the top of this repository.
-- Otherwise,
-    [download this repository](https://github.com/JellyfishJS/template-Multiplayer/archive/main.zip)
-    and edit it from there.
+This repository contains a very simple top-down co-op shooter game using the JellyFishJS engine.
 
 To build and run the game, run
 
